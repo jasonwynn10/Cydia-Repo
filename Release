@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
-Suite: stable
-Version: 1.0
+Origin: jasonwynn10's Repository
+Label: jasonwynn10's Repository
+Suite: development
+Version: 0.1
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: A repository to host iOS tweaks and apps by jasonwynn10

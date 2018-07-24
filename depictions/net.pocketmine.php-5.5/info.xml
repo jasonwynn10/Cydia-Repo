@@ -1,0 +1,32 @@
+<package>
+	<id>net.pocketmine.php-5.5</id>
+	<name>php-5.5</name>
+	<version>5.5.10</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>net.pocketmine.libyaml</package>
+		<package>net.pocketmine.zlib</package>
+		<package>curl</package>
+		<package>gsc.armv7</package>
+	</dependencies>
+	<descriptionlist>
+		<description>PHP binaries for PocketMine</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+		<change> </change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

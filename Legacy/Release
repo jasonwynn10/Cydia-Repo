@@ -1,0 +1,8 @@
+Origin: jasonwynn10's Repository
+Label: jasonwynn10's Repository
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: Repository that contains binaries needed by PocketMine-MP to run
