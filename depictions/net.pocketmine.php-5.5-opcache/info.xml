@@ -10,6 +10,7 @@
 	<dependencies>
 		<package>net.pocketmine.php-5.5</package>
 	</dependencies>
+	<shortDescription>This is a php 5.5 opcache library for iOS. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
 		<description>Faster PHP execution</description>
 	</descriptionlist>

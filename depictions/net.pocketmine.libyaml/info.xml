@@ -10,6 +10,7 @@
 	<dependencies>
 		<package>gsc.armv7</package>
 	</dependencies>
+	<shortDescription>This is a YAML library for iOS. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
 		<description>Work with YAML files</description>
 	</descriptionlist>

@@ -10,6 +10,7 @@
 	<dependencies>
 		<package>gsc.armv7</package>
 	</dependencies>
+	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
 		<description>A Massively Spiffy Yet Delicately Unobtrusive Compression Library</description>
 	</descriptionlist>

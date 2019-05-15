@@ -13,6 +13,7 @@
 		<package>curl</package>
 		<package>gsc.armv7</package>
 	</dependencies>
+	<shortDescription>This is a php 5.5 library for iOS. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
 		<description>PHP binaries for PocketMine</description>
 	</descriptionlist>

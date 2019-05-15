@@ -19,6 +19,7 @@
 		<package>net.pocketmine.php-5.5</package>
 		<package>screen</package>
 	</dependencies>
+	<shortDescription>This is the PocketMine Server Main deb. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
 		<description>PocketMine-MP is the open-source server software for Minecraft: Pocket Edition.
 			This package installs the latest version into /var/mobile/Media/PocketMine-MP/
